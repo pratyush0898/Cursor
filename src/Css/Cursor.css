@@ -1,0 +1,11 @@
+* {
+	cursor: url('../assets/cursor.png'), pointer;
+}
+
+.pointer {
+	cursor: url('../assets/pointer.png'), pointer;
+}
+
+.pointer * {
+	cursor: url('../assets/pointer.png'), pointer;
+}
